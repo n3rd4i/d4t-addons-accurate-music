@@ -13,7 +13,7 @@
     <version>16.6.19</version>
     <!-- <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>-->
     <!-- owners is a poor name for maintainers of the package. It sticks around by this name for compatibility reasons. It basically means you. -->
-    <!--<owners>__REPLACE_YOUR_NAME__</owners>-->
+    <owners>n3rd4i</owners>
     <!-- ============================== -->
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
@@ -32,14 +32,10 @@
     <!--<mailingListUrl></mailingListUrl>-->
     <!--<bugTrackerUrl></bugTrackerUrl>-->
     <tags>d4t-addons-accurate-music d4t addons music</tags>
-    <summary>DOOM2016 OST</summary>
+    <summary>D4T mod DOOM2016 original-sound-track's [OST]</summary>
     <description>
 
-16/6/19: sorry for the delay. i forgot i had this on moddb. i finished it a while ago, it was just hard deciding on the songs to pick for doom 2 since mick gordon was inspired more by doom 1's songs rather than doom 2's. i still tried my best, hope you enjoy. :) An addon for any mod actually, but because D4T is easily the best DOOM (2016) conversion mod, it works with that thematically. Though it was made for the songs to be accurate to their originals.
-
-I know a lot of these have been made, but I felt like a lot of them had some bad music choices, so I decided to make this with some fitting songs. Edit 16/6/19: finally uploaded it with the doom 2 conversion.
-
-Also if you're worried this only works on D4T, don't worry! It works for pretty much any DOOM mod, but D4T is the best DOOM (2016) conversion so I feel like this is appropriate. If I need to change any of the music choices, let me know.
+This package installs an addon for D4T: Doom2 mod for better in-game music.
 
     </description>
     <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
